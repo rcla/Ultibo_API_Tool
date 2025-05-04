@@ -62,6 +62,10 @@ For example, if `Main file name` is `"test1"`, then the following files will be 
 | test1project.lpi     | Lazarus Project Information file (contains project-specific settings) .|
 | test1project.lpr | Lazarus Program file, contains Pascal source of main program.|
 
+<p align="center">
+    <img align="center" src="img/sample.gif" width="auto" alt="Sample">
+</p>
+
 
 
 ## Additional information
