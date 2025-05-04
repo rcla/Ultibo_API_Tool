@@ -51,6 +51,9 @@ These are the steps you must follow to generate the files.
 Also if `Main file name` is empty or `path` is undefined, no files are generated and warning messages will be displayed.
 
 ## Files generated
+<p align="center">
+    <img align="center" src="img/sample.gif" width="auto" alt="Sample">
+</p>
 
 For example, if `Main file name` is `"test1"`, then the following files will be generated:
 
@@ -61,11 +64,6 @@ For example, if `Main file name` is `"test1"`, then the following files will be 
 | test1.code-workspace | File that automatically restores all workspace settings used by VScode.|
 | test1project.lpi     | Lazarus Project Information file (contains project-specific settings) .|
 | test1project.lpr | Lazarus Program file, contains Pascal source of main program.|
-
-<p align="center">
-    <img align="center" src="img/sample.gif" width="auto" alt="Sample">
-</p>
-
 
 
 ## Additional information
