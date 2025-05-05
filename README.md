@@ -64,8 +64,7 @@ For example, if `Main file name` is `"test1"`, then the following files will be 
 
 |  File           | Description|
 |:--------------------|:-------------|
-| initunit.pas    | This unit is included first in the project file it can be used to   
-update default settings used during boot.|
+| initunit.pas    | This unit is included first in the project file it can be used to update default settings used during boot.|
 | Makefile |The `make` utility requires this file to define the build rules for a project, primarily for compiling and linking source code.  |
 | test1.c    | Contains the main program in C or C++ language.|
 | test1.code-workspace | File that automatically restores all workspace settings used by VScode.|
