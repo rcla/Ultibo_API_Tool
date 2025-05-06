@@ -35,6 +35,11 @@ And type `Ultibo API Tool`
     <img align="center" src="img/Command-palette.png" width="auto" alt="Type Ultibo API Tool">
 </p>
 
+Or directly select the icon in the Activity Bar
+<p align="center">
+    <img align="center" src="img/OpenTool.png" width="auto" alt="Open Ultibo API Tool">
+</p>
+
 These are the steps you must follow to generate the files.
 
 |            | STEP |
@@ -57,7 +62,7 @@ Also if `Main file name` is empty or `path` is undefined, no files are generated
 
 ## Files generated
 <p align="center">
-    <img align="center" src="img/samplen.gif" width="auto" alt="Sample">
+    <img align="center" src="img/samplen3.gif" width="auto" alt="Sample">
 </p>
 
 For example, if `Main file name` is `"test1"`, then the following files will be generated:
