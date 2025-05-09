@@ -4,27 +4,13 @@
 	<br>
 	Ultibo API Tool for VSCode
 </h1>
-<p align="center"><strong>Generating files for an Ultibo API project.</strong></p>
+<p align="center"><strong>New and Build Project for Ultibo API.</strong></p>
 
 
 
 ## Installation
+[The complete installation guide]([https://en.wikipedia.org/wiki/De_Stijl](https://github.com/rcla/Ultibo_API_Tool/blob/master/INSTALLATION.md))
 
-Open the Extensions view by selecting the Extensions icon in the Activity Bar, or use the `Ctrl+Shift+X` keyboard shortcut.
-
-Select the "three dots" button in the top right corner. And choose the `Install from VSIX...` option.
-
-<p align="center">
-    <img align="center" src="img/Install-from-VSIX.png" width="auto" alt="Install from VSIX">
-</p>
-
-If you try to install this extension in restricted mode, you will be prompted to trust the workspace or simply install the extension.
-
-<p align="center">
-    <img align="center" src="img/workspace-trust-install-extension.png" width="auto" alt="Install Trust">
-</p>
-
-> Note: You must select `Trus Workspace & Install`, otherwise the extension will not work.
 
 ## Usage
 
