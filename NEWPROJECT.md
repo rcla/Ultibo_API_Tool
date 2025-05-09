@@ -20,6 +20,10 @@ You have the option to select an empty folder or open this tool.
 
 ## Usage
 
+<p align="center">
+    <img align="center" src="img/NewProj.gif" width="auto" alt="Sample">
+</p>
+
 These are the steps you must follow to generate the files.
 
 |            | STEP |
@@ -41,10 +45,6 @@ These are the steps you must follow to generate the files.
 Also if `Main file name` is empty or `path` is undefined, no files are generated and warning messages will be displayed.
 
 ## Files generated
-<p align="center">
-    <img align="center" src="img/NewProj.gif" width="auto" alt="Sample">
-</p>
-
 For example, if `Main file name` is `"test1"`, then the following files will be generated:
 
 |  File           | Description|
