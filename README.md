@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align="center" src="img/mainn.png" width="auto" alt="UltiboAPI">
+    <img align="center" src="img/Extens.png" width="auto" alt="UltiboAPI">
   <br>
 	<br>
 	Ultibo API Tool for VSCode
