@@ -9,7 +9,7 @@
 
 
 ## Installation
-[The complete installation guide]([https://en.wikipedia.org/wiki/De_Stijl](https://github.com/rcla/Ultibo_API_Tool/blob/master/INSTALLATION.md))
+Detailed information can be found at [The complete installation guide](https://github.com/rcla/Ultibo_API_Tool/blob/master/INSTALLATION.md)
 
 
 ## Usage
