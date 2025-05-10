@@ -1,12 +1,11 @@
-<h1 align="center">
-    <img align="center" src="img/BuildP.png" width="auto" alt="BuildUltiboAPI">
-  <br>
-	<br>
-	Ultibo API Tool - Build Project
-</h1>
+<h1 align="center">Ultibo API Tool - Build Project</h1>
 <p align="center"><strong>Build an Ultibo API project.</strong></p>
 
+<p align="center">
+    <img align="center" src="img/BuildP.png" width="auto" alt="BuildUltiboAPI">
+</p>
 
+<br><br>
 
 ## Open Tool
 
