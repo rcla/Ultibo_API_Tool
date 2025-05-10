@@ -2,7 +2,7 @@
 <p align="center"><strong>New and Build Project for Ultibo API.</strong></p>
 
 <p align="center">
-    <img align="center" src="img/Extens.png" width="auto" alt="UltiboAPI">
+    <img align="center" src="img/Extensp.png" width="auto" alt="UltiboAPI">
 </p>
 
 <br></br>
