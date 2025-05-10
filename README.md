@@ -9,7 +9,7 @@
 
 ## Installation
 Detailed information can be found at [The complete installation guide](https://github.com/rcla/Ultibo_API_Tool/blob/master/INSTALLATION.md)
-
+<br>
 
 ## New Project
 <p align="center">
@@ -18,6 +18,7 @@ Detailed information can be found at [The complete installation guide](https://g
 
 Detailed information can be found at [The complete guide to creating a new project](https://github.com/rcla/Ultibo_API_Tool/blob/master/NEWPROJECT.md)
 
+<br>
 ## Build Project
 <p align="center">
     <img align="center" src="img/BuildProj.gif" width="auto" alt="Build Project Ultibo API Tool">
@@ -25,7 +26,7 @@ Detailed information can be found at [The complete guide to creating a new proje
 
 Detailed information can be found at [The complete guide to build project](https://github.com/rcla/Ultibo_API_Tool/blob/master/BUILDPROJECT.md)
 
-
+<br>
 ## Additional information
 
 - Official forum and solution to doubts from [Forum Ultibo](https://ultibo.org/forum/index.php).
