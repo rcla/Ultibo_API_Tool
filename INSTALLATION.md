@@ -1,7 +1,7 @@
 <h1 align="center">Ultibo API Tool - Installation</h1>
 <p align="center"><strong>Instructions for installing this extension.</strong></p>
 
-<br><br>
+<br>
 
 ## Usage
 
