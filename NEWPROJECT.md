@@ -17,6 +17,7 @@ You have the option to select an empty folder or open this tool.
     <img align="center" src="img/OpenNewP.png" width="auto" alt="Open Ultibo API Tool">
 </p>
 
+<br></br>
 ## Usage
 
 <p align="center">
