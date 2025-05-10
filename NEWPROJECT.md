@@ -44,6 +44,7 @@ These are the steps you must follow to generate the files.
 > Note: If the folder already contains files, these will be overwriters!.  
 Also if `Main file name` is empty or `path` is undefined, no files are generated and warning messages will be displayed.
 
+<br></br>
 ## Files generated
 For example, if `Main file name` is `"test1"`, then the following files will be generated:
 
