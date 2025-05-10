@@ -5,7 +5,7 @@
     <img align="center" src="img/Extens.png" width="auto" alt="UltiboAPI">
 </p>
 
-<br><br>
+<br>
 
 ## Installation
 Detailed information can be found at [The complete installation guide](https://github.com/rcla/Ultibo_API_Tool/blob/master/INSTALLATION.md)
