@@ -1,8 +1,6 @@
 <h1 align="center">Ultibo API Tool - Installation</h1>
 <p align="center"><strong>Instructions for installing this extension.</strong></p>
 
-<br></br>
-
 ## Usage
 
 Open the Extensions view by selecting the Extensions icon in the Activity Bar, or use the `Ctrl+Shift+X` keyboard shortcut.
