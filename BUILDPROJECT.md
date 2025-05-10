@@ -5,7 +5,7 @@
     <img align="center" src="img/BuildP.png" width="auto" alt="BuildUltiboAPI">
 </p>
 
-<br><br>
+<br></br>
 
 ## Open Tool
 
@@ -17,6 +17,7 @@ You have the option to select an project folder or open this tool.
     <img align="center" src="img/OpenBuildP.png" width="auto" alt="Open Build Ultibo API Tool">
 </p>
 
+<br></br>
 ## Usage
 
 <p align="center">
@@ -31,6 +32,7 @@ Select the Board Type you need.
 
 > Note: The selected board is automatically saved.
 
+<br></br>
 ## Build
 
 Clicking the `Build` button will automatically open a terminal that will perform the corresponding action.
@@ -40,6 +42,7 @@ If successful, the corresponding kernel along with new files will appear in Expl
     <img align="center" src="img/BuildTerminal.png" width="auto" alt="Build Terminal">
 </p>
 
+<br></br>
 ## Clean
 
 Clicking the `Clean` button will automatically open a terminal that will perform the corresponding action.
