@@ -2,7 +2,7 @@
 <p align="center"><strong>Build an Ultibo API project.</strong></p>
 
 <p align="center">
-    <img align="center" src="img/BuildP.png" width="auto" style="border-radius: 10px;" alt="BuildUltiboAPI">
+    <img align="center" src="img/BuildP.png" width="auto" alt="BuildUltiboAPI">
 </p>
 
 <br></br>
@@ -14,20 +14,20 @@ Select the icon in the Activity Bar.
 You have the option to select an project folder or open this tool.
 
 <p align="center">
-    <img align="center" src="img/OpenBuildP.png" width="auto" style="border-radius: 8px;" alt="Open Build Ultibo API Tool">
+    <img align="center" src="img/OpenBuildP.png" width="auto" alt="Open Build Ultibo API Tool">
 </p>
 
 <br></br>
 ## Usage
 
 <p align="center">
-    <img align="center" src="img/BuildProj.gif" width="auto" style="border-radius: 8px;" alt="SampleBuild">
+    <img align="center" src="img/BuildProj.gif" width="auto" alt="SampleBuild">
 </p>
 
 Select the Board Type you need.
 
 <p align="center">
-    <img align="center" src="img/SelectBoard.gif" width="auto" style="border-radius: 8px;" alt="Select Board">
+    <img align="center" src="img/SelectBoard.gif" width="auto" alt="Select Board">
 </p>
 
 > Note: The selected board is automatically saved.
@@ -39,7 +39,7 @@ Clicking the `Build` button will automatically open a terminal that will perform
 If successful, the corresponding kernel along with new files will appear in Explorer.
 
 <p align="center">
-    <img align="center" src="img/BuildTerminal.png" width="auto" style="border-radius: 8px;" alt="Build Terminal">
+    <img align="center" src="img/BuildTerminal.png" width="auto" alt="Build Terminal">
 </p>
 
 <br></br>
@@ -49,7 +49,7 @@ Clicking the `Clean` button will automatically open a terminal that will perform
 The corresponding kernel will be deleted, along with any newly created files.
 
 <p align="center">
-    <img align="center" src="img/CleanTerminal.png" width="auto" style="border-radius: 8px;" alt="Clean Terminal">
+    <img align="center" src="img/CleanTerminal.png" width="auto" alt="Clean Terminal">
 </p>
 
 
