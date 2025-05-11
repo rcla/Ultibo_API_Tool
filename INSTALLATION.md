@@ -19,8 +19,17 @@ If you try to install this extension in restricted mode, you will be prompted to
 
 > Note: You must select `Trus Workspace & Install`, otherwise the extension will not work.
 
-If installed successfully, an icon should appear in the Activity Bar
+<br></br>
 
+## Installed
+
+If installed successfully, it should appear in the `installed extensions` section.
+
+<p align="center">
+    <img align="center" src="img/ExtenInstalled.png" width="auto" alt="Installed ext">
+</p>
+
+And an icon should appear in the Activity Bar.
 <p align="center">
     <img align="center" src="img/FinishInstall.png" width="auto" alt="FinishInstall">
 </p>
